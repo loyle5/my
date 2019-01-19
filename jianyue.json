@@ -1,7 +1,7 @@
 {
 	"sites": [{
 		"name": "www.gamersky.com",
-		"url": "https://www.gamersky.com/*",
+		"url": "https://*.gamersky.com/*",
 		"title": "<h1>",
 		"desc": "[[{$('.article-summary').text()}]]",
 		"include": "<div class='Mid2_L'>",
