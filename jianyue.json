@@ -1,48 +1,13 @@
 {
 	"sites": [{
-			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/zl/**",
-			"title": "<h1>",
-			"desc": "[[{$('.article-summary').text()}]]",
-			"include": "<div class='Mid2L_con'>",
-			"exclude": [
-				"<div class='EG_col'>",
-				"<div class='page_css'>"
-			]
-		}, {
-			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/review/**",
-			"title": "<h1>",
-			"desc": "[[{$('.article-summary').text()}]]",
-			"include": "<div class='MidLcon'>",
-			"exclude": [
-				"<div class='EG_col'>",
-				"<div class='page_css'>",
-				"<div class='gs_ccs_solve'>"
-			]
-
-		},
-		{
-			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/news/**/*",
-			"title": "<h1>",
-			"desc": "[[{$('.article-summary').text()}]]",
-			"include": "<div class='Mid2L_con'>",
-			"exclude": [
-				"<div class='EG_col'>",
-				"<div class='page_css'>"
-			]
-		},
-		{
-			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/tech/**/*",
-			"title": "<h1>",
-			"desc": "[[{$('.article-summary').text()}]]",
-			"include": "<div class='Mid2L_con'>",
-			"exclude": [
-				"<div class='EG_col'>",
-				"<div class='page_css'>"
-			]
-		}
-	]
+		"name": "www.gamersky.com",
+		"url": "https://*.gamersky.com/**/**",
+		"title": "<h1>",
+		"desc": "[[{$('.article-summary').text()}]]",
+		"include": "<div class='Mid2L_con'>",
+		"exclude": [
+			"<div class='EG_col'>",
+			"<div class='page_css'>"
+		]
+	}]
 }
