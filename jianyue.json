@@ -8,8 +8,7 @@
 		"exclude": [
 			"<div class='EG_col'>",
 			"<div class='page_css'>"
-		],
-		 
+		]
 	}]
 
 }
