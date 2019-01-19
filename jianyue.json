@@ -8,6 +8,7 @@
 		"exclude": [
 			"<div class='EG_col'>",
 			"<div class='page_css'>"
+            
 		],
 		"paging": [{
 				"prev": "[[{$('.page_css').find('a')[0].getAttribute('href')}]]"
@@ -24,7 +25,8 @@
 		"include": "<div class='Mid2L_con'>",
 		"exclude": [
 			"<div class='EG_col'>",
-			"<div class='page_css'>"
+			"<div class='page_css'>",
+            "<div class='gs_ccs_solve'>"
 		],
 		"paging": [{
 				"prev": "[[{$('.page_css').find('a')[0].getAttribute('href')}]]"
