@@ -4,7 +4,7 @@
 		"url": "https://www.gamersky.com/*",
 		"title": "<h1>",
 		"desc": "[[{$('.article-summary').text()}]]",
-		"include": "<div class='Mid2L_con'>",
+		"include": ["<div class='Mid2L_con'>", "<div class=''Mid2_L''>"],
 		"exclude": [
 			"<div class='EG_col'>",
 			"<div class='page_css'>"
