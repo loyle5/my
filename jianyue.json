@@ -19,8 +19,8 @@
 		]
 	},{
 		"name": "www.gamersky.com",
-		"url": "https://*.gamersky.com/handbook/**",
-		"title": "<h1>",
+		"url": "https://*.gamersky.com/review/**",
+		"title": "<h1>",               
 		"desc": "[[{$('.article-summary').text()}]]",
 		"include": "<div class='Mid2L_con'>",
 		"exclude": [
