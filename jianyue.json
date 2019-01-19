@@ -22,7 +22,7 @@
 		"url": "https://*.gamersky.com/review/**",
 		"title": "<h1>",               
 		"desc": "[[{$('.article-summary').text()}]]",
-		"include": "<div class='Mid2L_con'>",
+		"include": "<div class='MidLcon'>",
 		"exclude": [
 			"<div class='EG_col'>",
 			"<div class='page_css'>",
