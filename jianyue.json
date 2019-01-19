@@ -9,5 +9,16 @@
 			"<div class='EG_col'>",
 			"<div class='page_css'>"
 		]
+	}, {
+		"name": "www.gamersky.com",
+		"url": "https://*.gamersky.com/review/**",
+		"title": "<h1>",
+		"desc": "[[{$('.article-summary').text()}]]",
+		"include": "<div class='MidLcon'>",
+		"exclude": [
+			"<div class='EG_col'>",
+			"<div class='page_css'>",
+			"<div class='gs_ccs_solve'>"
+		]
 	}]
 }
