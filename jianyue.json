@@ -1,7 +1,24 @@
 {
 	"sites": [{
 		"name": "www.gamersky.com",
-		"url": "https://*.gamersky.com/zl/**/*",
+		"url": "https://*.gamersky.com/zl/**",
+		"title": "<h1>",
+		"desc": "[[{$('.article-summary').text()}]]",
+		"include": "<div class='Mid2L_con'>",
+		"exclude": [
+			"<div class='EG_col'>",
+			"<div class='page_css'>"
+		],
+		"paging": [{
+				"prev": "[[{$('.page_css').find('a')[0].getAttribute('href')}]]"
+			},
+			{
+				"next": "[[{$('.page_css').find('a')[$('.page_css').find('a').length-1].getAttribute('href')}]]"
+			}
+		]
+	},{
+		"name": "www.gamersky.com",
+		"url": "https://*.gamersky.com/handbook/**",
 		"title": "<h1>",
 		"desc": "[[{$('.article-summary').text()}]]",
 		"include": "<div class='Mid2L_con'>",
