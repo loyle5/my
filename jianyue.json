@@ -12,7 +12,7 @@
 	}
     , {
 			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/review/*/*",
+			"url": "https://*.gamersky.com/*/*/*",
 			"title": "<h1>",
 			"desc": "[[{$('.article-summary').text()}]]",
 			"include": "<div class='MidLcon'>",
