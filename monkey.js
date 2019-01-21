@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name            Endless Gamersky
-// @description     Load more results automatically and endlessly.
-// @author          fluffy
-// @oujs:author     fluffy
-// @namespace       kitty_the_lost@sina.com
-// @homepageURL     https://greasyfork.org/en/scripts/14183-endless-gamersky
+// @name            游民星空自动翻页
+// @description     
+// @author          Loyle
+// @oujs:author     Loyle
+// @namespace       
+// @homepageURL     
 // @supportURL      
 // @icon            
 // @include         http://*.gamersky.com/*
 // @include         https://*.gamersky.com/*
 // @run-at          document-start
 // @grant           GM_xmlhttpRequest
-// @version         0.1.3
+// @version         0.1
 // ==/UserScript==
 
 document.addEventListener('DOMContentLoaded', function () {
