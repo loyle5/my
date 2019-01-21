@@ -23,7 +23,7 @@
 		},
 		{
 			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/news/**/*",
+			"url": "https://*.gamersky.com/news/*/*",
 			"title": "<h1>",
 			"desc": "[[{$('.article-summary').text()}]]",
 			"include": "<div class='Mid2L_con'>",
@@ -34,7 +34,7 @@
 		},
 		{
 			"name": "www.gamersky.com",
-			"url": "https://*.gamersky.com/news/**/*",
+			"url": "https://*.gamersky.com/news/*/*",
 			"title": "<h1>",
 			"desc": "[[{$('.article-summary').text()}]]",
 			"include": "<div class='Mid2L_con'>",
