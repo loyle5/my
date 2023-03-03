@@ -1,3 +1,3 @@
-https://gitee.com/halflife/list/raw/master/ad.txt 
-https://cdn.jsdelivr.net/gh/loyle5/my@master/Outbound.conf\n 
-https://cdn.jsdelivr.net/gh/loyle5/my@master/mysubconverter-clash.ini 
+https://gitee.com/halflife/list/raw/master/ad.txt  
+https://cdn.jsdelivr.net/gh/loyle5/my@master/Outbound.conf  
+https://cdn.jsdelivr.net/gh/loyle5/my@master/mysubconverter-clash.ini  
