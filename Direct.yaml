@@ -3,5 +3,5 @@
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 payload:
-  - DOMAIN-KEYWORD,garmin
+#  - DOMAIN-KEYWORD,garmin
   - DOMAIN-SUFFIX,97img.com
