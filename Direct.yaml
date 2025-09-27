@@ -4,4 +4,5 @@
 # TOTAL: 1
 payload:
 #  - DOMAIN-KEYWORD,garmin
+  - DOMAIN-KEYWORD,dyxs
   - DOMAIN-SUFFIX,97img.com
