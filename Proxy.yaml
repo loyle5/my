@@ -2,5 +2,5 @@
 # AUTHOR: Loyle5
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
-#payload:
+payload:
   - DOMAIN-KEYWORD,garmin
