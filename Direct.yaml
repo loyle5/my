@@ -5,4 +5,5 @@
 payload:
 #  - DOMAIN-KEYWORD,garmin
   - DOMAIN-KEYWORD,dyxs
+  - DOMAIN-KEYWORD,advantech
   - DOMAIN-SUFFIX,97img.com
